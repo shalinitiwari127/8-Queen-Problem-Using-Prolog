@@ -1,0 +1,2 @@
+# 8-Queen-Problem-Using-Prolog
+The eight queens problem is the problem of placing eight queens on an 8×8 board such that none of the Queen attacks  another (no two are in the same row, column, or diagonal). There are 92 solutions to the 8 x 8 problem. Many of these are reflections and rotations of some of the others, and if we de-duplicate against this, purists state that there are only 12 distinct solutions (92 does not divide equally by 12 because many of the reflections and rotations of a pure solutions are not unique). 
